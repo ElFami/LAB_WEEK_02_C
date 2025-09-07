@@ -10,7 +10,6 @@ import android.util.Log
 import android.widget.Button
 import com.example.lab_week_02_c.R
 
-
 class SingleTopActivity : AppCompatActivity() {
     companion object{
         private const val DEBUG = "DEBUG"

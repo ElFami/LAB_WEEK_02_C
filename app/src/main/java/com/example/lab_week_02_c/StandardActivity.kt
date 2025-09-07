@@ -13,7 +13,6 @@ class StandardActivity : AppCompatActivity() {
     companion object {
         private const val DEBUG = "DEBUG"
     }
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_standard)
